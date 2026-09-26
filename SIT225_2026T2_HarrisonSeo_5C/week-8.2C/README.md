@@ -48,5 +48,4 @@ The wrapper uses a bounded thread-safe queue, a browser cursor and Dash
 missing observations or alter Plotly's installed library. Each browser stores
 its own cursor; old unrendered items can be dropped if the queue overflows.
 
-No Arduino sketch is needed: the phone's Arduino IoT Remote app is the device.
-Do not invent a sketch for this task.
+
